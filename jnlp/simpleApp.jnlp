@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp codebase="http://127.0.0.1:8081/webstart">
+	<information>
+		<title>SimpleApp Test</title>
+		<vendor>yinbin Good</vendor>
+		<homepage href="http://www.yinbin.net" />
+		<description>ok</description>
+	</information>
+	<security>
+		<all-permissions />
+	</security>
+	<resources>
+		<j2se version="1.6" />
+		<jar href="plugins/org.eclipse.equinox.launcher_1.2.0.v20110502.jar" />
+		<extension name="Simple App Feature" 
+		href="features/simpleApp.feature_1.0.0.jnlp" />
+		<property name="eclipse.product" value="com.nathanagood.examples.rcp.simpleApp.plugin.product" />
+	</resources>
+	
+	<application-desc main-class="org.eclipse.equinox.launcher.WebStartMain"/>
+</jnlp>

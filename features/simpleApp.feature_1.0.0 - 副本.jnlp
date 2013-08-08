@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://127.0.0.1:8081/webstart">
+	<information>
+		<title>Feature</title>
+		<vendor>yinbin</vendor>
+		<offline-allowed/>
+	</information>
+	<security>
+		<all-permissions/>
+	</security>
+	<component-desc/>
+	<resources>
+		<j2se version="1.6" />
+	</resources>
+	<resources>
+		<jar href="plugins/com.ibm.icu_4.4.2.v20110823.jar"/>
+		<jar href="plugins/org.eclipse.equinox.registry_3.5.101.R37x_v20110810-1611.jar"/>
+		<jar href="plugins/org.eclipse.equinox.app_1.3.100.v20110321.jar"/>
+		<jar href="plugins/org.eclipse.core.commands_3.6.0.I20110111-0800.jar"/>
+		<jar href="plugins/org.eclipse.core.databinding.observable_1.4.0.I20110222-0800.jar"/>
+		<jar href="plugins/org.eclipse.core.runtime.compatibility.auth_3.2.200.v20110110.jar"/>
+		<jar href="plugins/org.eclipse.help_3.5.100.v20110426.jar"/>
+		<jar href="plugins/javax.transaction_1.1.1.v201105210645.jar"/>
+		<jar href="plugins/com.nathanagood.examples.rcp.simpleApp.plugin_1.0.0.jar"/>
+		<jar href="plugins/org.eclipse.core.expressions_3.4.300.v20110228.jar"/>
+		<jar href="plugins/org.eclipse.swt_3.7.2.v3740f.jar"/>
+		<jar href="plugins/org.eclipse.swt.win32.win32.x86_3.7.2.v3740f.jar"/>
+		<jar href="plugins/org.eclipse.core.jobs_3.5.101.v20120113-1953.jar"/>
+		<jar href="plugins/org.eclipse.core.databinding_1.4.0.I20110111-0800.jar"/>
+		<jar href="plugins/org.eclipse.ui.workbench_3.7.1.v20120104-1859.jar"/>
+		<jar href="plugins/org.eclipse.core.runtime_3.7.0.v20110110.jar"/>
+		<jar href="plugins/org.eclipse.osgi_3.7.2.v20120110-1415.jar"/>
+		<jar href="plugins/org.eclipse.equinox.preferences_3.4.2.v20120111-2020.jar"/>
+		<jar href="plugins/javax.servlet_2.5.0.v201103041518.jar"/>
+		<jar href="plugins/org.eclipse.equinox.common_3.6.0.v20110523.jar"/>
+		<jar href="plugins/org.eclipse.core.runtime.compatibility.registry_3.5.0.v20110505.jar"/>
+		<jar href="plugins/org.eclipse.osgi.services_3.3.0.v20110513.jar"/>
+		<jar href="plugins/org.eclipse.core.databinding.property_1.4.0.I20110222-0800.jar"/>
+		<jar href="plugins/org.eclipse.jface_3.7.0.v20110928-1505.jar"/>
+		<jar href="plugins/org.eclipse.jface.databinding_1.5.0.I20100907-0800.jar"/>
+		<jar href="plugins/org.eclipse.ui_3.7.0.v20110928-1505.jar"/>
+		<jar href="plugins/org.eclipse.core.contenttype_3.4.100.v20110423-0524.jar"/>
+		<jar href="plugins/org.eclipse.equinox.launcher.win32.win32.x86_1.1.100.v20110502.jar"/>
+		<jar href="plugins/org.eclipse.equinox.launcher_1.2.0.v20110502.jar"/>
+	</resources>
+</jnlp>
