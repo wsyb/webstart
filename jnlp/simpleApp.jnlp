@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jnlp codebase="http://127.0.0.1:8081/webstart">
+<jnlp codebase="http://webstart.yinbin.net/">
 	<information>
 		<title>SimpleApp Test</title>
 		<vendor>yinbin Good</vendor>
